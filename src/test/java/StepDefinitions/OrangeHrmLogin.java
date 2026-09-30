@@ -50,7 +50,7 @@ public   static  PageObjectManger pom;
 
         Assertions.assertEquals("Dashboard", text);
         //screenShots("dashboard.png");
-  
+
         attachScreenshot("Dashboard page");
     }
 
