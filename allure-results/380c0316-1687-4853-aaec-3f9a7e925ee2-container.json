@@ -1,0 +1,1 @@
+{"uuid":"380c0316-1687-4853-aaec-3f9a7e925ee2","children":["6f3e1a43-8548-4d31-9cc4-eff862c0a455"],"befores":[],"afters":[{"name":"hooks.Hooks.closerBrowser(io.cucumber.java.Scenario)","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1790738089237,"stop":1790738089501}]}
